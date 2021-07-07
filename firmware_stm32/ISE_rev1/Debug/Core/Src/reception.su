@@ -1,0 +1,3 @@
+reception.c:3:6:received_commands	24	static
+reception.c:91:5:hex_to_decimal_conversion	48	static
+reception.c:176:6:init_function	24	static
